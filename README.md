@@ -11,7 +11,8 @@ Operating System: Windows 7, Windows 8, Windows 10, Windows 11.
 ## Installation
 1. Download the latest release of Murkyware™ Scanner from the [Anti-Ransomware Page](https://murkyware.com/page/anti-ransomware)
 2. Extract the downloaded ZIP file to a directory of your choice.
-3. Run Murkyware™ Scanner exeutable with or without administrative pirviliages. (Administrator account is only required if performing Network Traffic and Memory Scan)
+3. Calculate and compare the SHA256 hash of the extracted executable with the original Murkyware.exe hash; cd12d44e66937dae8b7d1138ed6974413e4e8a43196348541ef2c2cfebcc4c62
+4. Run Murkyware™ Scanner exeutable with or without administrative pirviliages. (Administrator account is only required if performing Network Traffic and Memory Scan). The program takes approximately 50 seconds to load.
 
 ## Usage
 Murkyware™ Scanner is easy to use and offers the following features:
