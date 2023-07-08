@@ -6,7 +6,7 @@ Ransomware Detection Tool by Murkyware™
 Murkyware™ Scanner search and identify phishing documents and MITRE ATT&CK® software tools weaponized by ransomware operators to conduct reconnaissance, infiltration, lateral movement, collection, and exfilteration.
 
 ## Prerequisites
-Operating System: Windows 7, Windows 8, Windows 10, Windows 11.
+Operating System: Windows 7, Windows 8, Windows 10, Windows 11
 
 ## Installation
 1. Download the latest release of Murkyware™ Scanner from the [Anti-Ransomware Page](https://murkyware.com/page/anti-ransomware)
