@@ -126,6 +126,9 @@ If you encounter any issues while using Murkyware™ Scanner, try the following 
 
 If the problem persists, please contact our support team at contact@murkyware.com for assistance.
 
+## Disclaimer: False Positive Findings
+
+The results reported by Murkyware™ Scanner may include false positive findings, which are potential threats or vulnerabilities that are inaccurately identified or do not pose real risks. Exercise caution and verify findings independently before taking any actions based on the results. We are not responsible for any consequences resulting from the interpretation or reliance on false positive findings.
 
 ## Contributions
 Contributions to Murkyware™ Scanner are welcome! If you find any bugs, have feature requests, or would like to contribute code improvements, please reach out to us at contact@murkyware.com to request access to the source code. We appreciate your contributions.
