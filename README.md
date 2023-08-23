@@ -1,7 +1,7 @@
 # [Murkyware™](https://murkyware.com) :: World's First Software Profiling Service
 
 ## Introduction
-Ransomware Detection Tool by Murkyware™
+**Ransomware Detection Tool by Murkyware™**
 
 Murkyware™ Scanner search and identify phishing documents and MITRE ATT&CK® software tools weaponized by ransomware operators to conduct reconnaissance, infiltration, lateral movement, collection, and exfilteration.
 
