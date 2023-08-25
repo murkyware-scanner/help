@@ -9,6 +9,7 @@ Murkyware™ Scanner search and identify phishing documents and MITRE ATT&CK® s
 Operating System: Windows 7, Windows 8, Windows 10, Windows 11
 
 ## Installation
+1. Sign up for a free account at [murkyware.com](https://murkyware.com/)
 1. Download the latest version of Murkyware™ Scanner from [releases page](https://github.com/murkyware-scanner/download/releases)
 2. Calculate and compare the SHA256 hash of the downloaded executables with the hashes below.
 3. Run Murkyware™ Scanner standalone file or the setup file with or without administrative pirviliages. (Administrator account is only required if performing Network Traffic and Memory Scan). The standalone program takes approximately 50 seconds to load.
