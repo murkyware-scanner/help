@@ -6,7 +6,7 @@
 Murkyware™ Scanner search and identify phishing documents and MITRE ATT&CK® software tools weaponized by ransomware operators to conduct reconnaissance, infiltration, lateral movement, collection, and exfilteration.
 
 ## Prerequisites
-Operating System: Windows 7, Windows 8, Windows 10, Windows 11
+Operating System: Windows 7, Windows 8, Windows 10, Windows 11, Windows Server 2022 (Standalone only)
 
 ## Installation
 1. Sign up for a free account at [murkyware.com](https://murkyware.com/)
