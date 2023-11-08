@@ -16,8 +16,8 @@ Operating System: Windows 7, Windows 8, Windows 10, Windows 11, Windows Server 2
 
 | File                 | Hash                                                              | Size     |
 |:---------------------|:------------------------------------------------------------------|:---------|
-| Murkyware.exe        | e20bbcde24d55bd0497aaf6af3c5e7f1b88f9efd70a87246303887123e54fc70  | 96.33 MB |
-| Murkyware_Setup.exe  | ec0632be501a13879c632e50f43a0933d90f4b1260bf414209e280887a0a2c38  | 65.44 MB |
+| Murkyware.exe        | 6A7B8BA3FC564A7867352CFBEFC82B553C2BBAE11C24E21AE3AFE66BC640E3A1  | 106.08 MB |
+| Murkyware_Setup.exe  | EC0632BE501A13879C632E50F43A0933D90F4B1260BF414209E280887A0A2C38  | 65.44 MB |
 
 ## Usage
 Murkyware™ Scanner is easy to use and offers the following features:
